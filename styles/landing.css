@@ -1,0 +1,22 @@
+.landing-main-container {
+	backdrop-filter: blur(80px);
+}
+.landing-wrapper {
+	padding: 2rem 5rem;
+	display: flex;
+	align-items: center;
+	height: 80vh;
+	gap: 2rem;
+}
+.landing-container {
+	width: 50%;
+}
+.landing-image {
+	width: 100%;
+}
+.landing-text {
+	font-size: 4rem;
+	font-weight: 600;
+	font-style: inherit;
+	color: #272727;
+}
